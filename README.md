@@ -1,7 +1,6 @@
 # Problem Set: Test Driven Development
 
 
-
 ### Directions
 1. Run `npm install` to load project dependencies.
 2. See the problems below for a description of what each function is supposed to do. Each problem has 2 to 6 examples which you will write the test cases for! For example, Problem 1 has six examples, so you should write six `expect` statements (one testing each example). Problem 2 has four examples, so you must write four `expect` statements for those examples. 
